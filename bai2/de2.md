@@ -1,16 +1,11 @@
 # Đề bài
-## Viết chương trình C++ đảo ngược mảng ban đầu
+## Viết chương trình C++ chuyển đổi từ giây sang giờ ,phút ,giây
 # Dữ liệu vào
-## Dòng đầu tiền: số phần tử trong mảng (nhỏ hơn 100)
-## Dòng tiếp theo: các phần tử trong mảng
+## Số giây
 # Dữ liệu ra
-## Mảng đã được đảo ngược
+## Giờ:Phút:Giây
 # Input
-## 3
-## 1 
-## 3
-## 5 
+## 9622
 # Output
-## 5
-## 3
-## 1
+## 2:40:22
+
