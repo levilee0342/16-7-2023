@@ -6,7 +6,7 @@
 # Dữ liệu ra
 ## P(n,r)
 # Input
-## 6
 ## 2
+## 6
 # Output
 ## 30
