@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-file:/T:/Workspace/Web/PTITHCMS1L1/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
-meta_index
